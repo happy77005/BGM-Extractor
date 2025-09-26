@@ -20,4 +20,5 @@
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/BGM-Extractor.git
+git clone https://github.com/happy77005/BGM-Extractor.git
+
